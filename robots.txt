@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruxiaoxx.github.io/mogushipinab/sitemap.xml
